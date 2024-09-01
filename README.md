@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Prutha Joshi! 👋
 
-<!--
-**pruthajoshi99/pruthajoshi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Developer and a recent graduate from Northeastern University. 💻 With a love for all things full stack and data-driven, I've found my groove in the tech world. From solving complex algorithms to crafting elegant solutions, I thrive on the thrill of tackling software challenges. 🧠💡
+## Tech Stack
 
-Here are some ideas to get you started:
+### Programming & Databases
+- **Languages**: Java, Python, C++, HTML, CSS, JavaScript, Node.js
+- **Databases**: SQL, NoSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks & Tools
+- **Frameworks**: Spring, Spring Boot, Hibernate, MVC
+- **Tools**: JUnit, REST API, Microservices, Git, JIRA, Docker, npm, Yarn
+- **Cloud**: AWS
+
+## Contact Deatils
+Feel free to explore my projects or reach out if you’d like to connect or collaborate!
+
+- ✉️ pruthaj08@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joshi-prutha) | 
